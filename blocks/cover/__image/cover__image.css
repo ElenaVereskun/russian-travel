@@ -1,0 +1,13 @@
+.cover__image {
+    background-image: url(../../../images/cover-trains.jpg);
+    max-width: 1184px;
+    max-height: 840px;
+    background-size: cover;
+    /* position: absolute; */
+    text-decoration: none;
+    opacity: 0.8;
+}
+
+.cover__image:hover {
+    opacity: 0.3;
+}

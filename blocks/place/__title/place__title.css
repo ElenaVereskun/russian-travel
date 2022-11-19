@@ -2,4 +2,9 @@
     font-weight: 900;
     font-size: 72px;
     line-height: 76px;
+    color: #FFFFFF;
+    margin: 0;/* 
+    padding-left: 148px; */
+    padding-bottom: 48px;
+    max-width: 480px;
 }
