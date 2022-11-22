@@ -10,3 +10,27 @@
     padding-left: 320px;
     padding-right: 320px;
 }
+
+@media screen and (min-width: 1024px) and (max-width: 1280px) {
+    .lead__subtitle {
+        padding-left: 192px;
+        padding-right: 192px;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+    .lead__subtitle {
+        padding-left: 64px;
+        padding-right: 64px;
+    }
+}
+
+@media screen and (min-width: 320px) and (max-width: 768px) {
+    .lead__subtitle {
+        max-width: 288px;
+        padding-left: 16px;
+        padding-right: 16px;
+        font-size: 16px;
+        line-height: 20px;
+    }
+}
