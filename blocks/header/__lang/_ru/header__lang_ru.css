@@ -1,7 +1,8 @@
-.header__lang-ru {
+.header__lang_ru {
     text-decoration:none;
+    padding: 0;
 }
 
-.header__lang-ru:hover {
+.header__lang_ru:hover {
     text-decoration:underline;
 }

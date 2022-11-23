@@ -1,4 +1,10 @@
 .cover {
-    display: flex;
-    position: relative;    
+    padding: 0px 48px 0px 48px;
     }
+
+    @media screen and (min-width: 319.98px) and (max-width: 1279.98px) {
+        .cover {
+            padding: 0px;
+        }
+    }
+   

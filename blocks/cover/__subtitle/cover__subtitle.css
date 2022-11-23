@@ -3,9 +3,27 @@
     font-size: 18px;
     line-height: 22px;
     text-align: center;
-    color:#FFFFFF;
+    color: #FFFFFF;
     margin: 0;
-    padding-bottom: 245px;
-    padding-left: 412px;
-    padding-right: 412px;
+    padding: 0px 412px 245px 412px;
+}
+
+@media screen and (min-width: 1023.98px) and (max-width: 1279.98px) {
+    .cover__subtitle {
+        padding: 0px 332px 195px 332px;
+    }
+}
+
+@media screen and (min-width: 767.98px) and (max-width: 1023.98px) {
+    .cover__subtitle {
+        padding: 0px 204px 115px 204px;
+    }
+}
+
+@media screen and (min-width: 319.98px) and (max-width: 767.98px) {
+    .cover__subtitle {
+        padding: 0px 16px 33px 16px;
+        font-size: 14px;
+        line-height: 16px;
+    }
 }

@@ -5,6 +5,11 @@
     flex-direction: column;
     justify-content: flex-end;
     padding-bottom: 48px;
+    text-decoration: none;
+}
+
+.place__website:hover {
+    text-decoration: underline;
 }
 
 @media screen and (min-width: 1023.98px) and (max-width: 1279.98px) {
