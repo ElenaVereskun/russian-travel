@@ -1,11 +1,4 @@
 .cover {
     display: flex;
     position: relative;    
-    padding-left: 48px;
-    padding-right: 48px;
-    padding-bottom: 134px; 
-    background-image: url(../../images/cover-trains.jpg);
-    max-width: 1184px;
-    max-height: 840px;
-    background-size: cover;
-}
+    }
