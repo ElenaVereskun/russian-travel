@@ -4,7 +4,7 @@
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     background: #2A2C2F;
-    max-width: 1280px;
+    min-width: 1280px;
 }
 
 @media screen and (min-width: 1023.98px) and (max-width: 1279.98px) {

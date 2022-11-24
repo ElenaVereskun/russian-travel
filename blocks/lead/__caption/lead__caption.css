@@ -4,11 +4,11 @@
     line-height: 14px;
     letter-spacing: 1.5px;
     color: #FFFFFF;
-    padding-left: 148px;
+    /* padding-left: 148px; */
     margin: 0;
     max-width: 158px;
 }
-
+/* 
 @media screen and (min-width: 1023.98px) and (max-width: 1279.98px) {
     .lead__caption {
         padding-left: 48px;
@@ -25,5 +25,5 @@
     .lead__caption {
         padding-left: 16px;
     }
-}
+} */
 
