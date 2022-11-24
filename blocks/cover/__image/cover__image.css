@@ -1,8 +1,6 @@
-.cover__image{
+.cover__image {
     display: flex;
     position: relative;
     background-image: url(../../../images/cover-trains.jpg);
-   /*  max-width: 1184px;
-    max-height: 840px; */
     background-size: cover;
 }

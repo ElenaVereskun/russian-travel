@@ -3,6 +3,11 @@
     justify-content: space-between;
     padding-left: 48px;
     padding-right: 48px;
+    font-family: 'Inter', 'IBM Plex';
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background: #2A2C2F;
 }
 
 @media screen and (min-width: 768px) and (max-width: 1023.98px) {

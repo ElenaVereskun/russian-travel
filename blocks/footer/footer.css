@@ -2,6 +2,11 @@
     display: flex;
     justify-content: space-between;
     align-items: flex-end;
+    font-family: 'Inter','IBM Plex';
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background: #2A2C2F;
     padding: 134px 48px 24px 48px;
 }
 
