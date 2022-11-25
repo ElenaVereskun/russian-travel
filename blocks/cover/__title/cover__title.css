@@ -3,7 +3,7 @@
     font-size: 72px;
     line-height: 76px;
     text-align: center;
-    color: #FFFFFF;    
+    color: #FFFFFF;
     max-height: 152px;
     margin: 0;
     padding-top: 245px;
@@ -30,7 +30,7 @@
 @media screen and (min-width: 319.98px) and (max-width: 767.98px) {
     .cover__title {
         font-size: 32px;
-        line-height: 35px;        
+        line-height: 35px;
         max-height: 70px;
         padding-top: 33px;
         padding-left: 5%;
