@@ -30,5 +30,4 @@
 
 **Ссылка на сайт**
 
-<<<<<<< HEAD
 https://elenavereskun.github.io/russian-travel/
