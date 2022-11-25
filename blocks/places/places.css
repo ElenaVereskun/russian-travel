@@ -1,5 +1,4 @@
 .places {
-    max-width: 984px;
     padding-left: calc((100vw - 984px)/2);
     padding-right: calc((100vw - 984px)/2);
 }
@@ -7,7 +6,6 @@
 
 @media screen and (min-width: 1023.98px) and (max-width: 1279.98px) {
     .places {
-        max-width: 928px;
         padding-left: calc((100vw - 928px)/2);
         padding-right: calc((100vw - 928px)/2);
     }
@@ -15,16 +13,7 @@
 
 @media screen and (min-width: 767.98px) and (max-width: 1023.98px) {
     .places {
-        max-width: 720px;
         padding-left: calc((100vw - 720px)/2);
         padding-right: calc((100vw - 720px)/2);
-    }
-}
-
-@media screen and (min-width: 319.98px) and (max-width: 767.98px) {
-    .places {
-        max-width: 320px;
-        padding-left: 0px;
-        padding-right: 0px;
     }
 }

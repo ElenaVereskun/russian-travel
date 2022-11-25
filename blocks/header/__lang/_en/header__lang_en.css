@@ -1,0 +1,8 @@
+.header__lang_en {
+    text-decoration:none;
+    padding: 0;
+}
+
+.header__lang_en:hover {
+    text-decoration:underline;
+}

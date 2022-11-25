@@ -6,11 +6,13 @@
     margin: 0;
     padding-left: 40px;
     padding-bottom: 26px;
+    min-width: 38vw;
 }
 
 @media screen and (min-width: 1023.98px) and (max-width: 1279.98px) {
     .place__paragraph {
         padding-left: 32px;
+        min-width: 45vw;
     }
 }
 
@@ -19,14 +21,16 @@
         padding-left: 28px;
         padding-bottom: 25px;
         font-size: 16px;
+        min-width: 45vw;
     }
 }
 
 @media screen and (min-width: 319.98px) and (max-width: 767.98px) {
     .place__paragraph {
-        padding-left: 16px;
         padding-bottom: 25px;
-        padding-right: 16px;
         font-size: 16px;
+        min-width: 90%;
+        padding-left: 5%;
+        padding-right: 5%;
     }
 }
