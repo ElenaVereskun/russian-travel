@@ -2,12 +2,12 @@
     display: flex;
     justify-content: space-between;
     align-items: flex-end;
-    font-family: 'Inter','IBM Plex';
+    font-family: 'Inter', 'IBM Plex';
     font-style: normal;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     background: #2A2C2F;
-    padding: 134px 48px 24px 48px;
+    padding: 92px 48px 24px 48px;
 }
 
 @media screen and (min-width: 767.98px) and (max-width: 1023.98px) {
@@ -18,7 +18,12 @@
 
 @media screen and (min-width: 319.98px) and (max-width: 767.98px) {
     .footer {
-       flex-wrap: wrap;
-       padding: 64px 118px 24px 16px;
+        flex-wrap: wrap;
+        flex-direction: column;
+        align-items: flex-start;
+        padding-left: 5%;
+        padding-right: 5%;
+        padding-top: 118px;
+        padding-bottom: 24px;
     }
 }

@@ -5,25 +5,45 @@
     text-align: center;
     color: #FFFFFF;
     margin: 0;
-    padding: 0px 412px 245px 412px;
+    padding-bottom: 245px;
+    padding-left: 32%;
+    padding-right: 32%;
+    padding-top: 0;
+    max-height: 66px;
 }
 
 @media screen and (min-width: 1023.98px) and (max-width: 1279.98px) {
     .cover__subtitle {
-        padding: 0px 332px 195px 332px;
+        padding-bottom: 195px;
     }
 }
 
 @media screen and (min-width: 767.98px) and (max-width: 1023.98px) {
     .cover__subtitle {
-        padding: 0px 204px 115px 204px;
+        padding-bottom: 115px;
+        padding-left: 26%;
+        padding-right: 26%;
     }
 }
 
-@media screen and (min-width: 319.98px) and (max-width: 767.98px) {
+@media screen and (min-width: 425px) and (max-width: 767.98px) {
     .cover__subtitle {
-        padding: 0px 16px 33px 16px;
+        padding-bottom: 33px;
+        padding-left: 26%;
+        padding-right: 26%;
         font-size: 14px;
         line-height: 16px;
+        max-height: 48px;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .cover__subtitle {
+        padding-bottom: 33px;
+        padding-left: 5%;
+        padding-right: 5%;
+        font-size: 14px;
+        line-height: 16px;
+        max-height: 48px;
     }
 }

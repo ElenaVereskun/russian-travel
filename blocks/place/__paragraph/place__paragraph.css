@@ -9,6 +9,10 @@
     min-width: 38vw;
 }
 
+.place__paragraph:last-child {
+    padding-bottom: 0px;
+}
+
 @media screen and (min-width: 1023.98px) and (max-width: 1279.98px) {
     .place__paragraph {
         padding-left: 32px;

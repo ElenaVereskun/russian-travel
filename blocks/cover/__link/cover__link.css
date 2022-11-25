@@ -3,6 +3,7 @@
     background-size: cover;
     background-color: rgba(42, 44, 47, 0.3);
     text-decoration: none;
+    width: 100%;
 }
 
 .cover__link:hover {
