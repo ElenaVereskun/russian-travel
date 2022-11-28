@@ -2,7 +2,7 @@
     display: flex;
     justify-content: space-between;
     align-items: flex-end;
-    font-family: 'Inter', 'IBM Plex';
+    font-family: 'Inter', Arial, sans-serif;
     font-style: normal;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;

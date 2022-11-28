@@ -4,35 +4,32 @@
     line-height: 76px;
     text-align: center;
     color: #FFFFFF;
-    max-height: 152px;
+    height: 20%;
     margin: 0;
-    padding-top: 245px;
     padding-left: 24%;
     padding-right: 24%;
     padding-bottom: 32px;
 }
 
-@media screen and (min-width: 1023.98px) and (max-width: 1279.98px) {
+@media screen and (max-width: 1279.98px) {
     .cover__title {
-        padding-top: 195px;
-
+        height: 24%;
     }
 }
 
-@media screen and (min-width: 767.98px) and (max-width: 1023.98px) {
+@media screen and (max-width: 1023.98px) {
     .cover__title {
-        padding-top: 115px;
         padding-left: 14%;
         padding-right: 14%;
+        height: 32%;
     }
 }
 
-@media screen and (min-width: 319.98px) and (max-width: 767.98px) {
+@media screen and (max-width: 767.98px) {
     .cover__title {
         font-size: 32px;
         line-height: 35px;
-        max-height: 70px;
-        padding-top: 33px;
+        height: 35%;
         padding-left: 5%;
         padding-right: 5%;
         padding-bottom: 16px;

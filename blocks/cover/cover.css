@@ -5,9 +5,9 @@
     margin-left: 4%;
     margin-right: 4%;
     background-position: center center;
-    background-size: cover;
+    background-size:cover;
 }
-@media screen and (min-width: 319.98px) and (max-width: 1279.98px) {
+@media screen /* and (min-width: 319.98px)  */and (max-width: 1279.98px) {
     .cover {
         margin: 0;
         width: 100%;

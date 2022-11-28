@@ -7,7 +7,15 @@
     text-decoration: none;
 }
 
-@media screen and (min-width: 319.98px) and (max-width: 767.98px) {
+.footer__link:last-child {
+    padding-right: 0px;
+}
+
+.footer__link:hover {
+    opacity: 0.8;
+}
+
+@media screen and (max-width: 767.98px) {
     .footer__link {
         padding-bottom: 32px;
     }
