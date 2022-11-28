@@ -1,7 +1,7 @@
 .place__image {
     max-width: 460px;
     grid-row-start: 2;
-    grid-row-end: 4;
+    grid-row-end: 5;
 }
 
 @media screen and (max-width: 1279.98px) {
@@ -20,7 +20,7 @@
     .place__image {
         max-width: 100%;
         grid-row-start: 3;
-        grid-row-end: 5;
+        grid-row-end: 6;
         padding-bottom: 32px;
         justify-self: center;
     }
