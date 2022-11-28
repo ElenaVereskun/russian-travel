@@ -4,14 +4,14 @@
 }
 
 
-@media screen and (min-width: 1023.98px) and (max-width: 1279.98px) {
+@media screen and (max-width: 1279.98px) {
     .places {
         padding-left: calc((100vw - 928px)/2);
         padding-right: calc((100vw - 928px)/2);
     }
 }
 
-@media screen and (min-width: 767.98px) and (max-width: 1023.98px) {
+@media screen and (max-width: 1023.98px) {
     .places {
         padding-left: calc((100vw - 720px)/2);
         padding-right: calc((100vw - 720px)/2);

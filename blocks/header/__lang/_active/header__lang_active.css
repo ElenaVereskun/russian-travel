@@ -1,9 +1,9 @@
 .header__lang_active {
-    text-decoration:none;
+    text-decoration: none;
     padding: 0;
 }
 
 .header__lang_active:hover {
-    text-decoration:underline;
+    text-decoration: underline;
     opacity: 0.8;
 }

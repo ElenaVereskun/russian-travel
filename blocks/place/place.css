@@ -9,7 +9,7 @@
     padding-bottom: 92px;
 }
 
-@media screen and (min-width: 767.98px) and (max-width: 1023.98px) {
+@media screen and (max-width: 1023.98px) {
     .place {
         padding-bottom: 73px;
     }
@@ -19,7 +19,7 @@
     }
 }
 
-@media screen and (min-width: 319.98px) and (max-width: 767.98px) {
+@media screen and (max-width: 767.98px) {
     .place {
         padding-bottom: 50px;
         grid-template-columns: auto;
