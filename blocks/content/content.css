@@ -3,6 +3,24 @@
     font-style: normal;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    background: #2A2C2F;
+    background: #2A2C2F; 
     max-width: 1280px;
+}
+
+@media screen and (max-width: 1279.98px) {
+    .content {
+        min-width: 1024px;
+    }
+}
+
+@media screen and (max-width: 1023.98px) {
+    .content {
+        min-width: 768px;
+    }
+}
+
+@media screen and (max-width: 767.98px) {
+    .content {
+        min-width: 320px;
+    }
 }

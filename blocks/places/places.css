@@ -1,6 +1,6 @@
 .places {
-    padding-left: calc((100vw - 984px)/2);
-    padding-right: calc((100vw - 984px)/2);
+    padding-left: calc((100% - 984px)/2);
+    padding-right: calc((100% - 984px)/2);
 }
 
 

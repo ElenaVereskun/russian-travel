@@ -3,6 +3,8 @@
     font-size: 18px;
     line-height: 22px;
     text-align: center;
+    justify-content: center;
+    justify-self:center;
     color: #FFFFFF;
     margin: 0;
     padding-left: 32%;
