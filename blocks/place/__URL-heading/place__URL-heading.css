@@ -6,10 +6,6 @@
     line-height: 22px;
 }
 
-.place__url-heading:link {
-    color: white;
-}
-
 .place__url-heading:hover {
     opacity: 0.8;
 }
