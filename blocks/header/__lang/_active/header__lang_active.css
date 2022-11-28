@@ -1,8 +1,8 @@
-.header__lang_en {
+.header__lang_active {
     text-decoration:none;
     padding: 0;
 }
 
-.header__lang_en:hover {
+.header__lang_active:hover {
     text-decoration:underline;
 }

@@ -1,3 +1,5 @@
-.place__URL-heading{
+.place__url-heading{
     margin: 0;
+    color: #FFFFFF;
+    text-decoration: none;
 }
