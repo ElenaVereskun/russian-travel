@@ -4,24 +4,16 @@
     line-height: 76px;
     text-align: center;
     color: #FFFFFF;
-    height: 20%;
     margin: 0;
     padding-left: 24%;
     padding-right: 24%;
     padding-bottom: 32px;
 }
 
-@media screen and (max-width: 1279.98px) {
-    .cover__title {
-        height: 24%;
-    }
-}
-
 @media screen and (max-width: 1023.98px) {
     .cover__title {
         padding-left: 14%;
         padding-right: 14%;
-        height: 32%;
     }
 }
 
@@ -29,7 +21,6 @@
     .cover__title {
         font-size: 32px;
         line-height: 35px;
-        height: 35%;
         padding-left: 5%;
         padding-right: 5%;
         padding-bottom: 16px;
