@@ -1,0 +1,25 @@
+.header__langs {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    display: flex;
+    gap: 18px;
+    padding-left: 0;
+    padding-top: 46px;
+    padding-right: 48px;
+}
+
+@media screen and (max-width: 1023.98px) {
+    .header__langs {
+        padding-right: 24px;
+    }
+}
+
+@media screen and (max-width: 767.98px) {
+    .header__langs {
+        font-size: 18px;
+        line-height: 20px;
+        padding-top: 30px;
+        padding-right: 16px;
+    }
+}
