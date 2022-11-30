@@ -1,9 +1,9 @@
 .place__url-heading {
-    margin: 0;
-    color: #FFFFFF;
     font-weight: 400;
     font-size: 18px;
     line-height: 22px;
+    color: #FFFFFF;
+    margin: 0;
 }
 
 .place__url-heading:hover {
