@@ -1,6 +1,4 @@
 .cover {
-    display: flex;
-    position: relative;
     background-image: url(../../images/cover-trains.jpg);
     margin-left: 4%;
     margin-right: 4%;
