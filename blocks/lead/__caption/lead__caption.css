@@ -4,11 +4,11 @@
     line-height: 14px;
     letter-spacing: 1.5px;
     color: #FFFFFF;
-    padding-left: calc((100% - 984px)/2);
     margin: 0;
     max-width: 158px;
     align-self: flex-start;
     text-transform: uppercase;
+    padding-left: calc((100% - 984px)/2);
 }
 
 @media screen and (max-width: 1279.98px) {
