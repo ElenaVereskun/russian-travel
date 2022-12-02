@@ -2,7 +2,3 @@
     text-decoration: underline;
     padding: 0;
 }
-
-.header__lang_active:hover {
-    opacity: 0.8;
-}
